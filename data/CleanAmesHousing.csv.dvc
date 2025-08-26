@@ -2,4 +2,4 @@ outs:
 - md5: 9a31e6a93a7989a3de44890adc6bbbf7
   size: 832606
   hash: md5
-  path: AmesHousing.csv
+  path: CleanAmesHousing.csv
