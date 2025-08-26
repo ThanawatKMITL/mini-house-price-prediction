@@ -1,0 +1,5 @@
+outs:
+- md5: 5b012cb5bdfe0223d97de5cce2ef53e0
+  size: 1016532
+  hash: md5
+  path: FullCleanAmesHousing.csv
