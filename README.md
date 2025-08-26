@@ -1,4 +1,5 @@
 # mini-house-price-prediction
+# Education Purpose
 Work in Progress
 
 project_folder/
